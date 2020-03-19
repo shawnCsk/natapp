@@ -1,0 +1,141 @@
+[03/16/20 17:09:20] [INFO] [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[03/16/20 17:09:20] [INFO] [view] [web] Serving web interface on 127.0.0.1:4040
+[03/16/20 17:09:21] [INFO] [client] Authenticated with server, client id: 723fd63dedbb6e1b58479ee730339655
+[03/16/20 17:09:21] [INFO] [client] Tunnel established at http://zk2eq6.natappfree.cc
+[03/16/20 17:09:50] [INFO] [prv:743a5238] Joined with connection pxy:37de2292
+[03/16/20 17:10:23] [INFO] [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[03/16/20 17:10:23] [INFO] [view] [web] Serving web interface on 127.0.0.1:4040
+[03/16/20 17:10:23] [INFO] [client] Authenticated with server, client id: 3a2cbb02765741831bbca623e096d9fa
+[03/16/20 17:10:23] [INFO] [client] Tunnel established at http://e9yet7.natappfree.cc
+[03/16/20 17:16:17] [INFO] [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[03/16/20 17:16:17] [INFO] [view] [web] Serving web interface on 127.0.0.1:4040
+[03/16/20 17:16:17] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/16/20 17:16:17] [INFO] [client] Tunnel established at http://unrxgh.natappfree.cc
+[03/17/20 01:30:54] [EROR] control recovering from failure read tcp 192.168.16.119:61387->112.74.89.58:443: read: connection reset by peer
+[03/17/20 01:30:54] [INFO] Waiting 1 seconds before reconnecting
+[03/17/20 08:32:08] [EROR] [pxy:3e43c12e] Server failed to write StartProxy: read tcp 192.168.16.119:61392->112.74.89.58:443: read: connection reset by peer
+[03/17/20 08:32:08] [EROR] [client] Last ping: 2020-03-17 01:30:54.788506 +0800 CST m=+880.584151092, Last pong: 2020-03-16 17:30:37.986147 +0800 CST
+[03/17/20 08:32:08] [EROR] [client] Connection stale, haven't gotten PongMsg in 15 seconds
+[03/17/20 08:32:13] [EROR] control recovering from failure dial tcp: i/o timeout
+[03/17/20 08:32:13] [INFO] Waiting 2 seconds before reconnecting
+[03/17/20 08:32:15] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/17/20 08:32:15] [INFO] [client] Tunnel established at http://24gi39.natappfree.cc
+[03/17/20 12:51:32] [EROR] [ctl:3687f256] Got error write tcp 192.168.16.119:65174->112.74.89.58:443: write: can't assign requested address when writing PingMsg
+[03/17/20 12:51:32] [EROR] control recovering from failure read tcp 192.168.16.119:65174->112.74.89.58:443: use of closed network connection
+[03/17/20 12:51:32] [INFO] Waiting 1 seconds before reconnecting
+[03/17/20 12:51:34] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/17/20 12:51:34] [INFO] [client] Tunnel established at http://8i86zp.natappfree.cc
+[03/17/20 12:52:14] [EROR] [ctl:108f6bef] Got error write tcp 172.20.10.3:50663->112.74.89.58:443: write: can't assign requested address when writing PingMsg
+[03/17/20 12:52:14] [EROR] control recovering from failure read tcp 172.20.10.3:50663->112.74.89.58:443: use of closed network connection
+[03/17/20 12:52:14] [INFO] Waiting 1 seconds before reconnecting
+[03/17/20 12:52:15] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/17/20 12:52:15] [INFO] [client] Tunnel established at http://j5d5xb.natappfree.cc
+[03/17/20 12:53:31] [EROR] [pxy:20fd5a5d] Server failed to write StartProxy: read tcp 192.168.16.119:65177->112.74.89.58:443: read: connection reset by peer
+[03/17/20 12:54:07] [EROR] [pxy:6a027f89] Server failed to write StartProxy: read tcp 172.20.10.3:50673->112.74.89.58:443: read: operation timed out
+[03/17/20 14:13:29] [EROR] control recovering from failure read tcp 192.168.16.119:50959->112.74.89.58:443: read: connection reset by peer
+[03/17/20 14:13:29] [INFO] Waiting 1 seconds before reconnecting
+[03/17/20 14:13:30] [EROR] [pxy:1a2897b2] Server failed to write StartProxy: read tcp 192.168.16.119:50960->112.74.89.58:443: read: connection reset by peer
+[03/17/20 14:13:30] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/17/20 14:13:30] [INFO] [client] Tunnel established at http://jc34p9.natappfree.cc
+[03/17/20 14:13:34] [EROR] [ctl:7933e128] Got error tls: use of closed connection when writing PingMsg
+[03/17/20 20:31:34] [EROR] control recovering from failure read tcp 192.168.16.119:51386->112.74.89.58:443: read: connection reset by peer
+[03/17/20 20:31:34] [INFO] Waiting 1 seconds before reconnecting
+[03/17/20 20:31:38] [EROR] [pxy:67019b03] Server failed to write StartProxy: read tcp 192.168.16.119:51389->112.74.89.58:443: read: connection reset by peer
+[03/18/20 08:12:39] [EROR] [client] Last ping: 2020-03-17 20:31:32.030545 +0800 CST m=+28903.812184614, Last pong: 2020-03-17 17:31:11.290143 +0800 CST
+[03/18/20 08:12:39] [EROR] [client] Connection stale, haven't gotten PongMsg in 19 seconds
+[03/18/20 08:12:39] [EROR] control recovering from failure dial tcp: i/o timeout
+[03/18/20 08:12:39] [INFO] Waiting 2 seconds before reconnecting
+[03/18/20 08:12:41] [EROR] control recovering from failure dial tcp: lookup server.natappfree.cc on [::1]:53: read udp [::1]:62636->[::1]:53: read: connection refused
+[03/18/20 08:12:41] [INFO] Waiting 4 seconds before reconnecting
+[03/18/20 08:12:45] [EROR] control recovering from failure dial tcp: lookup server.natappfree.cc on [::1]:53: read udp [::1]:57699->[::1]:53: read: connection refused
+[03/18/20 08:12:45] [INFO] Waiting 8 seconds before reconnecting
+[03/18/20 08:12:55] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/18/20 08:12:55] [INFO] [client] Tunnel established at http://yun7ig.natappfree.cc
+[03/18/20 08:40:25] [EROR] [pxy:301b3874] Server failed to write StartProxy: read tcp 192.168.16.28:51141->112.74.89.58:443: read: connection reset by peer
+[03/18/20 08:40:30] [EROR] control recovering from failure read tcp 192.168.16.28:51138->112.74.89.58:443: read: connection reset by peer
+[03/18/20 08:40:30] [INFO] Waiting 1 seconds before reconnecting
+[03/18/20 08:40:32] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/18/20 08:40:32] [INFO] [client] Tunnel established at http://6sxikw.natappfree.cc
+[03/18/20 08:40:35] [EROR] [ctl:6b5678a1] Got error tls: use of closed connection when writing PingMsg
+[03/18/20 10:12:37] [EROR] control recovering from failure read tcp 192.168.16.28:57674->112.74.89.58:443: read: connection reset by peer
+[03/18/20 10:12:37] [INFO] Waiting 1 seconds before reconnecting
+[03/18/20 10:12:39] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/18/20 10:12:39] [INFO] [client] Tunnel established at http://nix6xy.natappfree.cc
+[03/18/20 10:12:47] [EROR] [pxy:5b82bc0b] Server failed to write StartProxy: read tcp 192.168.16.28:57675->112.74.89.58:443: read: connection reset by peer
+[03/18/20 10:12:53] [EROR] [client] Last ping: 2020-03-18 10:12:37.148875 +0800 CST m=+34734.520835691, Last pong: 2020-03-18 10:03:52.438482 +0800 CST
+[03/18/20 10:12:53] [EROR] [client] Connection stale, haven't gotten PongMsg in 16 seconds
+[03/18/20 10:15:17] [EROR] control recovering from failure read tcp 192.168.16.28:65178->112.74.89.58:443: read: connection reset by peer
+[03/18/20 10:15:17] [INFO] Waiting 1 seconds before reconnecting
+[03/18/20 10:15:18] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/18/20 10:15:18] [INFO] [client] Tunnel established at http://exzr79.natappfree.cc
+[03/18/20 10:15:33] [EROR] [client] Last ping: 2020-03-18 10:15:17.35003 +0800 CST m=+34796.442557832, Last pong: 2020-03-18 10:13:19.352659 +0800 CST
+[03/18/20 10:15:33] [EROR] [client] Connection stale, haven't gotten PongMsg in 15 seconds
+[03/18/20 10:16:03] [EROR] [pxy:36e435d8] Server failed to write StartProxy: read tcp 192.168.16.28:65193->112.74.89.58:443: read: connection reset by peer
+[03/18/20 14:13:42] [EROR] control recovering from failure read tcp 192.168.16.28:49337->112.74.89.58:443: read: connection reset by peer
+[03/18/20 14:13:42] [INFO] Waiting 1 seconds before reconnecting
+[03/18/20 14:13:43] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/18/20 14:13:43] [INFO] [client] Tunnel established at http://ybzqfb.natappfree.cc
+[03/18/20 14:13:50] [EROR] [pxy:55c45bd9] Server failed to write StartProxy: read tcp 192.168.16.28:49346->112.74.89.58:443: read: connection reset by peer
+[03/18/20 14:13:58] [EROR] [client] Last ping: 2020-03-18 14:13:42.003614 +0800 CST m=+43657.805665171, Last pong: 2020-03-18 12:42:39.094735 +0800 CST
+[03/18/20 14:13:58] [EROR] [client] Connection stale, haven't gotten PongMsg in 15 seconds
+[03/18/20 16:16:11] [EROR] [pxy:2bd1236b] Server failed to write StartProxy: read tcp 192.168.16.28:55467->112.74.89.58:443: read: connection reset by peer
+[03/18/20 16:16:13] [EROR] control recovering from failure read tcp 192.168.16.28:55466->112.74.89.58:443: read: connection reset by peer
+[03/18/20 16:16:13] [INFO] Waiting 1 seconds before reconnecting
+[03/18/20 16:16:14] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/18/20 16:16:14] [INFO] [client] Tunnel established at http://rp3uu4.natappfree.cc
+[03/18/20 16:16:18] [EROR] [ctl:10048e60] Got error tls: use of closed connection when writing PingMsg
+[03/18/20 18:04:15] [EROR] control recovering from failure read tcp 192.168.16.28:64239->112.74.89.58:443: read: connection reset by peer
+[03/18/20 18:04:15] [INFO] Waiting 1 seconds before reconnecting
+[03/18/20 18:04:17] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/18/20 18:04:17] [INFO] [client] Tunnel established at http://4fqxqp.natappfree.cc
+[03/18/20 18:04:23] [EROR] [pxy:640790ce] Server failed to write StartProxy: read tcp 192.168.16.28:64248->112.74.89.58:443: read: connection reset by peer
+[03/18/20 18:04:30] [EROR] [client] Last ping: 2020-03-18 18:04:15.779285 +0800 CST m=+51375.929253699, Last pong: 2020-03-18 17:33:01.76218 +0800 CST
+[03/18/20 18:04:30] [EROR] [client] Connection stale, haven't gotten PongMsg in 15 seconds
+[03/19/20 03:14:28] [EROR] [pxy:e370017] Server failed to write StartProxy: unexpected end of JSON input
+[03/19/20 03:14:28] [EROR] control recovering from failure unexpected end of JSON input
+[03/19/20 03:14:28] [INFO] Waiting 1 seconds before reconnecting
+[03/19/20 03:14:38] [EROR] [ctl:1cac8b53] Got error tls: use of closed connection when writing PingMsg
+[03/19/20 03:14:39] [EROR] control recovering from failure read tcp 192.168.16.28:55367->112.74.89.58:443: i/o timeout
+[03/19/20 03:14:39] [INFO] Waiting 2 seconds before reconnecting
+[03/19/20 03:14:44] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/19/20 03:14:44] [INFO] [client] Tunnel established at http://bznc3h.natappfree.cc
+[03/19/20 09:44:36] [EROR] [pxy:5bf512db] Server failed to write StartProxy: read tcp 192.168.16.28:55487->112.74.89.58:443: read: connection reset by peer
+[03/19/20 09:44:37] [EROR] control recovering from failure read tcp 192.168.16.28:55464->112.74.89.58:443: read: connection reset by peer
+[03/19/20 09:44:37] [INFO] Waiting 1 seconds before reconnecting
+[03/19/20 09:44:38] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/19/20 09:44:38] [INFO] [client] Tunnel established at http://we933n.natappfree.cc
+[03/19/20 09:44:42] [EROR] [ctl:5d354746] Got error tls: use of closed connection when writing PingMsg
+[03/19/20 10:08:58] [EROR] control recovering from failure read tcp 192.168.16.28:58279->112.74.89.58:443: read: connection reset by peer
+[03/19/20 10:08:58] [INFO] Waiting 1 seconds before reconnecting
+[03/19/20 10:09:00] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/19/20 10:09:00] [INFO] [client] Tunnel established at http://8vb4k8.natappfree.cc
+[03/19/20 10:09:02] [EROR] [ctl:7d67084a] Got error tls: use of closed connection when writing PingMsg
+[03/19/20 10:09:04] [EROR] [pxy:165649ec] Server failed to write StartProxy: read tcp 192.168.16.28:58280->112.74.89.58:443: read: connection reset by peer
+[03/19/20 11:38:35] [EROR] [client] Last ping: 2020-03-19 11:38:20.262613 +0800 CST m=+112537.338680028, Last pong: 2020-03-19 11:38:05.087623 +0800 CST
+[03/19/20 11:38:35] [EROR] [client] Connection stale, haven't gotten PongMsg in 15 seconds
+[03/19/20 11:38:35] [EROR] control recovering from failure read tcp 192.168.16.28:58834->112.74.89.58:443: use of closed network connection
+[03/19/20 11:38:35] [INFO] Waiting 1 seconds before reconnecting
+[03/19/20 11:38:35] [EROR] [pxy:57cba54b] Server failed to write StartProxy: unexpected end of JSON input
+[03/19/20 11:38:38] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/19/20 11:38:38] [INFO] [client] Tunnel established at http://dpxppu.natappfree.cc
+[03/19/20 14:07:39] [EROR] control recovering from failure read tcp 192.168.16.28:53544->112.74.89.58:443: read: connection reset by peer
+[03/19/20 14:07:39] [INFO] Waiting 1 seconds before reconnecting
+[03/19/20 14:07:39] [EROR] [pxy:510897f2] Server failed to write StartProxy: read tcp 192.168.16.28:53565->112.74.89.58:443: read: connection reset by peer
+[03/19/20 14:07:40] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/19/20 14:07:40] [INFO] [client] Tunnel established at http://e345mu.natappfree.cc
+[03/19/20 14:07:43] [EROR] [ctl:4a1eca97] Got error tls: use of closed connection when writing PingMsg
+[03/19/20 14:27:23] [EROR] control recovering from failure read tcp 192.168.16.28:59927->112.74.89.58:443: read: connection reset by peer
+[03/19/20 14:27:23] [INFO] Waiting 1 seconds before reconnecting
+[03/19/20 14:27:25] [INFO] [client] Authenticated with server, client id: 963739a1e8360d1fc7cfbe35294b2b5f
+[03/19/20 14:27:25] [INFO] [client] Tunnel established at http://nvhy5c.natappfree.cc
+[03/19/20 14:27:34] [EROR] [client] Last ping: 2020-03-19 14:27:18.258544 +0800 CST m=+120452.191428776, Last pong: 2020-03-19 14:24:00.743584 +0800 CST
+[03/19/20 14:27:34] [EROR] [client] Connection stale, haven't gotten PongMsg in 15 seconds
+[03/19/20 14:27:35] [EROR] [pxy:4ad922b4] Server failed to write StartProxy: read tcp 192.168.16.28:59929->112.74.89.58:443: read: connection reset by peer
+[03/19/20 14:55:37] [INFO] [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[03/19/20 14:55:37] [INFO] [view] [web] Serving web interface on 127.0.0.1:4040
+[03/19/20 14:55:38] [INFO] [client] Authenticated with server, client id: f9bd5a81812970535427527d6e701cf8
+[03/19/20 14:55:38] [INFO] [client] Tunnel established at http://kihexp.natappfree.cc
+[03/19/20 15:02:38] [INFO] [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[03/19/20 15:02:38] [INFO] [view] [web] Serving web interface on 127.0.0.1:4040
+[03/19/20 15:02:38] [INFO] [client] Authenticated with server, client id: e5f7fed762063917f6abb09e47ebeff7
+[03/19/20 15:02:38] [INFO] [client] Tunnel established at http://zxs769.natappfree.cc
